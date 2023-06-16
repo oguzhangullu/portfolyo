@@ -1,0 +1,2 @@
+# portfolyo
+ portfolyo.odev
